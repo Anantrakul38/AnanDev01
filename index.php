@@ -52,8 +52,8 @@
 <div class="submenu">
     <div class="submenu-">
 </div>
-
-</body>
 <h1>Hello World</h1>
+</body>
+
 <?php include 'script.php' ?>
 </html>
